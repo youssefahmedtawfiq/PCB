@@ -18,16 +18,19 @@ This repository contains the hardware design files for a custom, compact **40x40
 *(Note: The images below showcase the schematic and the final PCB layout)*
 
 ### Schematic Design
-![Schematic](job2_page_0001.jpg)
+![Schematic](Job2_page-0001.jpg)
 
-### 2D PCB Layout
-![2D Layout](images/2d_layout.png)
+### 2D PCB Layout Top
+![2D Layout](Job2_page-0002.jpg)
+
+### 2D PCB Layout Bottom
+![2D Layout](Job2_page-0003.jpg)
 
 ### 3D View (Top)
-![3D Top View](images/3d_top.png)
+![3D Top View](Job2_page-0005.jpg)
 
 ### 3D View (Bottom)
-![3D Bottom View](images/3d_bottom.png)
+![3D Bottom View](Job2_page-0004.jpg)
 
 ## 🛠️ EDA Tool Used
 * Altium Designer
