@@ -18,7 +18,7 @@ This repository contains the hardware design files for a custom, compact **40x40
 *(Note: The images below showcase the schematic and the final PCB layout)*
 
 ### Schematic Design
-![Schematic](images/schematic.png)
+![Schematic](job2_page_0001.jpg)
 
 ### 2D PCB Layout
 ![2D Layout](images/2d_layout.png)
